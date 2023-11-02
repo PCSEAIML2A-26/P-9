@@ -37,7 +37,7 @@ Google offers a robust and secure service called Firebase Authentication to impl
 Firebase Authentication is an excellent choice for small to large-scale applications, and it simplifies the process of setting up and managing user authentication in the Google Cloud environment. It also supports various identity providers, single sign-on (SSO), and provides options for multi-factor authentication (MFA) to enhance security. Additionally, Firebase offers generous free usage quotas, making it a cost-effective solution for many projects.
 
 
-<h3 align="center">ARGUMENTED REALITY</h3> 
+<h3 align="center">ARGUMENTED REALITY:</h3> 
 Augmented Reality (AR) is a technology that overlays digital information, such as images, videos, 3D models, or other digital content, onto the real world. AR technology blends the physical and digital worlds, enhancing our perception of reality. Unlike virtual reality (VR), which immerses the user in a completely computer-generated environment, AR supplements the real world with digital elements.
 Key components and characteristics of AR include:
 AR Devices: AR can be experienced through various devices, including smartphones, tablets, smart glasses, and headsets.
