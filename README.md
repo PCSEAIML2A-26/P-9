@@ -17,11 +17,11 @@ Bootstrapping (Statistics): In statistics, bootstrapping is a resampling techniq
 Bootloader: In the context of computer systems, a bootloader is a program that loads the operating system (OS) into memory during the startup process. It's responsible for initializing the computer's hardware and then loading the OS into memory so that it can start running.
 
 
-<h3 align="center">REACT FOR BETTER PERFORMANCE</h3>   
+<h3 align="center">REACT</h3>   
 React is an open-source JavaScript library for building user interfaces. It was developed by Facebook and is widely used for creating dynamic and interactive web applications. React allows developers to build reusable UI components and manage the state of an application efficiently. It uses a virtual DOM to optimize rendering performance. React is often used in conjunction with other technologies, like JSX (JavaScript XML) for writing component templates and libraries like React Router for handling routing.
 
 
-<h3 align="center">BACKEND </h3>  
+<h3 align="center">BACKEND</h3>  
 "Backend" typically refers to the server-side of a software application or website. It is the part of the application that handles data storage, business logic, and the processing of requests from the client-side (frontend).
 Programming Languages used:
 Python: Known for its simplicity and versatility, Python is used in backend development.
@@ -56,10 +56,10 @@ Interaction Methods: Users interact with AR content through touch gestures, voic
 Unity offers robust support for Augmented Reality (AR) development through its AR Foundation framework. AR Foundation is a cross-platform framework that enables developers to create AR applications . Unity's integration of AR capabilities makes it a powerful tool for creating AR applications and games. Developers can leverage Unity's vast ecosystem, which includes a wide range of assets and plugins, to expedite AR development. Unity's cross-platform support for AR helps developers reach a broader audience with their AR experiences.
 Blender is a valuable tool for creating 3D content and assets for AR. To build complete AR applications, you would typically need to integrate the 3D assets and animations created in Blender with an AR development framework or engine, such as Unity with AR Foundation or ARCore/ARKit for mobile AR applications. Blender's compatibility with various file formats, coupled with its powerful 3D modeling and animation capabilities, makes it a popular choice among 3D artists and developers who work on AR projects.
 
-<h4 align="center">Team Members</h4> 
-- Prapti Sharma(Group leader)(Web Developer)
-- Anoushka Goel(AR Developer)
-- Harsh Verma(AR Developer)
-- Dev Jain(UI/UX Designer)
-- Aryan Sharma(PPT)
+<h4 align="center">Team(Clueless Coders) Members</h4> 
+- Prapti Sharma(Team leader)(Web Developer)<br>
+- Anoushka Goel(AR Developer)<br>
+- Harsh Verma(AR Developer)<br>
+- Dev Jain(UI/UX Designer)<br>
+- Aryan Sharma(PPT)<br>
 - Reyansh Kaushik(Document)
