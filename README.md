@@ -57,9 +57,9 @@ Unity offers robust support for Augmented Reality (AR) development through its A
 Blender is a valuable tool for creating 3D content and assets for AR. To build complete AR applications, you would typically need to integrate the 3D assets and animations created in Blender with an AR development framework or engine, such as Unity with AR Foundation or ARCore/ARKit for mobile AR applications. Blender's compatibility with various file formats, coupled with its powerful 3D modeling and animation capabilities, makes it a popular choice among 3D artists and developers who work on AR projects.
 
 <h4 align="center">Team(Clueless Coders) Members</h4> 
-- Prapti Sharma(Team leader)(Web Developer)<br>
-- Anoushka Goel(AR Developer)<br>
-- Harsh Verma(AR Developer)<br>
-- Dev Jain(UI/UX Designer)<br>
-- Aryan Sharma(PPT)<br>
-- Reyansh Kaushik(Document)
+- Prapti Sharma(Team leader)(Web Developer)(2200291530082)<br>
+- Anoushka Goel(AR Developer)(2200291530018)<br>
+- Harsh Verma(AR Developer)(2200291530048)<br>
+- Dev Jain(UI/UX Designer)(2200291530038)<br>
+- Aryan Sharma(PPT)(2200291530026)<br>
+- Reyansh Kaushik(Document)(2200291530086)
